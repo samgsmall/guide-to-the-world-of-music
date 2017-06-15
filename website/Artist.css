@@ -1,0 +1,49 @@
+#subscribe,
+#login{
+	padding: 60px;
+	top: 0px;
+	width: 88%;
+	padding: 18px 6% 60px 6%;
+	margin: 0 0 35px 0;
+	background: rgb(247, 247, 247);
+	border: 1px solid rgba(147, 184, 189,0.8);
+	box-shadow:
+		0pt 2px 5px rgba(105, 108, 109,  0.7),
+		0px 0px 8px 5px rgba(208, 223, 226, 0.4) inset;
+	border-radius: 5px;
+}
+#login{
+	z-index: 22;
+}
+#myInput {
+    background-image: url('searchicon.png'); 
+    background-position: 10px 12px;
+    background-repeat: no-repeat;
+    width: 100%;
+    font-size: 16px;
+    padding: 12px 20px 12px 40px;
+    border: 1px solid #ddd;
+    margin-bottom: 12px;
+}
+
+#myTable {
+    border-collapse: collapse;
+    width: 100%;
+    border: 1px solid #ddd;
+    font-size: 18px;
+}
+
+#myTable th, #myTable td {
+    text-align: left;
+    padding: 12px;
+}
+
+#myTable tr {
+
+    border-bottom: 1px solid #ddd;
+}
+
+#myTable tr.header, #myTable tr:hover {
+
+
+}
